@@ -55,11 +55,12 @@ Instruction-tuned open-source LLM optimized for chat applications.
 Ensure you have a GPU-enabled setup or sufficient memory to run 7B models locally. You can also try smaller models like tiiuae/falcon-7b-instruct if needed.
 
 ## 📁 File Structure
-  Paris-Travel-Chatbot/
-  │
-  ├── chatbot.py               # Main script to run the chatbot
-  ├── requirements.txt         # Dependencies
-  └── README.md                # Project overview
+     ```bash
+     Paris-Travel-Chatbot/
+     │
+     ├── chatbot.py               # Main script to run the chatbot
+     ├── requirements.txt         # Dependencies
+     └── README.md                # Project overview
 
 ## 🙌 Acknowledgements
 - Hugging Face for open-access instruction-tuned models.
